@@ -11,7 +11,7 @@
 | Tutorials | Labs |
 | --- | --- | 
 | [TUT01](Tutorials/TUT01/) | [LAB01](Labs/LAB01/) |
-| TUT02 | LAB02 |
+| [TUT02](Tutorials/TUT02/) | LAB02 |
 | TUT03 | LAB03 |
 | TUT04 | LAB04 |
 | TUT05 | LAB05 |
