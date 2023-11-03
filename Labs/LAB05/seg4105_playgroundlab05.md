@@ -12,4 +12,3 @@
 # Betting Table, Comments, Change History, and Kick-off meeting notes
 ### Available on Confluence
 - https://stockup.atlassian.net/wiki/spaces/S/pages/
-

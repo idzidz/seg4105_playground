@@ -1,0 +1,1 @@
+betting table results are on confluence and assignment

@@ -1,0 +1,1 @@
+standup during friday nov 11 2023 lab
